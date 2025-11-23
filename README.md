@@ -1,0 +1,1 @@
+A full compiler implementation written in Python 3.11 for a custom programming language that uses Greek keywords and syntax. The project includes all major phases of a real compiler: lexical analysis, syntax analysis, semantic checks, intermediate code generation, symbol table management, and final RISC-V assembly output.
